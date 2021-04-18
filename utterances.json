@@ -1,3 +1,6 @@
 {
-	"origins": ["https://blog.sungmin.dev"]
+	"origins": [
+		"https://blog.sungmin.dev",
+	"https://storycoding.tistory.com/"
+	]
 }
